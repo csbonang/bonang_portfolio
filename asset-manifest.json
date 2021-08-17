@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bonang_portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/bonang_portfolio/static/js/main.8c5379e5.chunk.js",
+    "main.js.map": "/bonang_portfolio/static/js/main.8c5379e5.chunk.js.map",
+    "runtime-main.js": "/bonang_portfolio/static/js/runtime-main.c37b637d.js",
+    "runtime-main.js.map": "/bonang_portfolio/static/js/runtime-main.c37b637d.js.map",
+    "static/js/2.0776a14c.chunk.js": "/bonang_portfolio/static/js/2.0776a14c.chunk.js",
+    "static/js/2.0776a14c.chunk.js.map": "/bonang_portfolio/static/js/2.0776a14c.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/bonang_portfolio/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/bonang_portfolio/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/bonang_portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bonang_portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/bonang_portfolio/static/js/2.0776a14c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bonang_portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c37b637d.js",
+    "static/js/2.0776a14c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8c5379e5.chunk.js"
+  ]
+}
