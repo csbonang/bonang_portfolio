@@ -19,8 +19,8 @@ const styles = {
 
 function About() {
   return (
-    <p> 
-        Hello, my name is Clarisse Bonang, and welcome to my portfolio! 
+    <article id="aboutMe_content">
+                Hello, my name is Clarisse Bonang, and welcome to my portfolio! 
                 I am an aspiring software engineer. Below you will find my project
                  highlights next to the work section. To open the deployed link 
                 of each project, click on the image. You will also find a title,
@@ -28,7 +28,7 @@ function About() {
                 the image. Under contact information, links to my email, GitHub,
                 and  LinkedIn page are displayed. I hope you enjoy my website 
                 as much as I had developing it.  
-    </p>
+    </article>
   );
 }
 

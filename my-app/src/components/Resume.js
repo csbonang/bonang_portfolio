@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Navbar.css';
+// import '../styles/Navbar.css';
 
 // By importing the Navbar.css file, it is added to the DOM whenever this component loads
 
@@ -17,16 +17,22 @@ const styles = {
 
 // We use JSX curly braces to evaluate the style object on the JSX tag
 
-function Navbar() {
+function Resume() {
   return (
-    <nav style={styles.navbarStyle} className="navbar">
-      <a href="/">Welcome</a>
-      <a href="/about">About</a>
-      <a href="/resume">Resume</a>
-      <a href="/portfolio">Portfolio</a>
-      <a href="/contactMe">Contact Me</a>
-    </nav>
+    <div> 
+        <h1>Resume</h1>
+        <h2>Clarisse</h2>
+        <p class="head">Interests</p>
+        <ul>
+            <li>Drawing</li>
+            <li>Photography</li>
+            <li>Design</li>
+            <li>Programming</li>
+            <li>Computer Science</li>
+        </ul>
+        
+    </div>
   );
 }
 
-export default Navbar;
+export default Resume;
