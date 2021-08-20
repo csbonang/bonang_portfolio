@@ -1,0 +1,108 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+
+/* TOP IMAGE  */
+  .img_top
+  {
+      width:100%;
+      position:relative;  
+      /*included margin and padding to align with 
+      smaller images below */
+      margin:2%; 
+      padding:1%; 
+      /* background-color:black;  */
+      background-color: var(--gray_pink);
+      border-radius: 25px;
+  }
+  .img_top:hover
+  {
+    border-radius: 3vw;
+    /* background-color:rgb(136, 135, 135); */
+    background-color: var(--beige);
+  }
+  
+  .img_topImg 
+  {
+      width:100%; 
+      border-radius: 25px;
+  } 
+
+
+  /* Images below top */
+   /* TODO: ensure all img have same size  */
+   .img_bottomImg
+   {
+       width:90%;
+       margin:2%; 
+       padding:5%; 
+
+   }
+   /* images on te left side */
+   .imgLeft_position 
+   {
+       position:relative; 
+       float:left; 
+       text-align: center;
+       width:50%; 
+       /* background-color:black;  */
+       background-color: var(--gray_pink);
+       border-radius: 3vw;
+   }
+   .imgLeft_position:hover
+   {
+     background-color: var(--beige);
+   }
+   
+   /* images on te right side */
+   .imgRight_position 
+   {
+       position: relative;
+       float:right; 
+       text-align: center;
+       width:50%; 
+       /* background-color:black;  */
+       background-color: var(--gray_pink);
+       border-radius: 3vw;
+   }
+   .imgRight_position2
+   {
+       position: relative;
+       float:right; 
+       text-align: center;
+       width:50%; 
+       /* background-color:black;  */
+       background-color: var(--gray_pink);
+       border-radius: 3vw;
+   }
+   .imgRight_position:hover
+   {
+     background-color: var(--beige);
+   }
+
+    /*Image information/titles */
+    #img_title
+    {
+      background-color:transparent;
+      color: white; 
+      font-size: x-large;
+      box-shadow: black;
+    }
+    #img_title1
+    {
+      background-color:transparent;
+      color: white; 
+      font-size: small; 
+      box-shadow: black;
+    }
