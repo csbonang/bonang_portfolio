@@ -20,7 +20,7 @@ const styles = {
 function Navbar() {
   return (
     <nav style={styles.navbarStyle} className="navbar">
-      <a href="/">Welcome</a>
+      {/* <a href="/">Welcome</a> */}
       <a href="/about">About</a>
       <a href="/resume">Resume</a>
       <a href="/portfolio">Portfolio</a>

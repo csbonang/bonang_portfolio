@@ -12,9 +12,9 @@ function Footer() {
     return (
       <div className='footer' > 
         <div className='ButtonGroup'>
-        <Button> LinkedIn </Button>
-        <Button> GitHub </Button>
-        <Button> Instagram </Button>
+        <a href='https://www.linkedin.com/in/clarisse-bonang/'><Button> LinkedIn </Button></a>
+        <a href='https://github.com/csbonang'><Button> GitHub </Button></a>
+        <a href='https://github.com/csbonang'><Button> Instagram </Button></a>
         </div>
       </div> 
     );
