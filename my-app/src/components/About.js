@@ -1,5 +1,5 @@
 import React from 'react';
-// import '../styles/Navbar.css';
+import '../styles/About.css';
 
 // By importing the Navbar.css file, it is added to the DOM whenever this component loads
 
@@ -19,16 +19,18 @@ const styles = {
 
 function About() {
   return (
-    <article id="aboutMe_content">
-                Hello, my name is Clarisse Bonang, and welcome to my portfolio! 
-                I am an aspiring software engineer. Below you will find my project
-                 highlights next to the work section. To open the deployed link 
-                of each project, click on the image. You will also find a title,
-                description, and link to the project's GitHub repository under 
-                the image. Under contact information, links to my email, GitHub,
-                and  LinkedIn page are displayed. I hope you enjoy my website 
-                as much as I had developing it.  
-    </article>
+    // <div id="background">
+        <article id="background">
+                    Hello, my name is Clarisse Bonang, and welcome to my portfolio! 
+                    I am an aspiring software engineer. Below you will find my project
+                    highlights next to the work section. To open the deployed link 
+                    of each project, click on the image. You will also find a title,
+                    description, and link to the project's GitHub repository under 
+                    the image. Under contact information, links to my email, GitHub,
+                    and  LinkedIn page are displayed. I hope you enjoy my website 
+                    as much as I had developing it.  
+        </article>
+    // </div> 
   );
 }
 
