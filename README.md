@@ -5,8 +5,8 @@ Deployed link: https://csbonang.github.io/bonang_UpdatedPortfolio/
 
 ## Table of Contents 
 * [Description](#description)
-* [Commands](#commands)
 * [Screenshot](#screenshot)
+* [Commands](#commands)
 * [References](#references)
 
 # Description 
@@ -20,7 +20,14 @@ The program displays a portfolio of my project highlights in web development. It
 
 * A single `Footer` component that appears on multiple pages
 
-
+# Screenshot
+<b> About 
+![About](my-app/src/images/About.PNG)
+Contact
+![Contact](my-app/src/images/contact.PNG)
+Resume
+![Resume](my-app/src/images/resume.PNG)
+</b>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -91,6 +98,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 
 ### References 
 

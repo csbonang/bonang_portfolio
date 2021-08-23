@@ -1,8 +1,30 @@
-/* *
-{
-    background-color: rgb(128, 118, 118);
-} */
 #about
 {
+    /* background-image: url('https://i.pinimg.com/736x/6d/76/b9/6d76b98716272f26b2b7c31ef9a4fb5b.jpg'); */
+  background: url(../images/background.PNG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} 
+#about_info
+{
     color: rgb(100, 76, 76);
+    flex-wrap: inherit;
+    padding-top: 2vw;
+    margin-left: 40px;
+    background-color: rgb(148, 138, 138);
+    border-radius: 4vw;
+    color: white; 
+    padding-bottom: 10%;
+    text-indent: 2vw;
+}
+#img 
+{
+    border-radius: 10vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15vw;
+    height: 15vw;
 }
