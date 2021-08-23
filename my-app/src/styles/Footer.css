@@ -8,8 +8,7 @@
     width: 100%;
   }
 Button{
-  background-color: black;
-  color: white;
+  background-color: rgb(207, 187, 187);
   font-size: 20px;
   padding: 10px 60px;
   border-radius: 5px;
