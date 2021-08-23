@@ -1,0 +1,39 @@
+.resume_info
+{
+    /* background-image: url('https://i.pinimg.com/originals/30/ab/8e/30ab8e3557d8c944fb26f142de14c8a5.jpg'); */
+    background-color: rgb(128, 118, 118);
+    color: rgb(247, 241, 241);
+}
+#resume 
+   {
+     color:var(--gray_pink); 
+     text-decoration: none;
+     font-weight: bold;
+   }
+.resume_info > h1, article
+{
+    text-align: center;
+}
+
+.resume_info > h2
+{
+   margin-left: 40px;
+   /* text-indent: 3vw; */
+
+}
+.resume_info > h3
+{
+   margin-left: 40px;
+   /* text-indent: 3vw; */
+
+}
+.resume_info > p
+{
+   margin-left: 40px;
+   /* text-indent: 3vw; */
+
+}
+
+h4{
+    font-size: x-large;
+}

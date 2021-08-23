@@ -20,7 +20,8 @@ const styles = {
 function About() {
   return (
     // <div id="background">
-        <article id="background">
+    <div>
+        <article id="about">
                     Hello, my name is Clarisse Bonang, and welcome to my portfolio! 
                     I am an aspiring software engineer. Below you will find my project
                     highlights next to the work section. To open the deployed link 
@@ -30,7 +31,7 @@ function About() {
                     and  LinkedIn page are displayed. I hope you enjoy my website 
                     as much as I had developing it.  
         </article>
-    // </div> 
+    </div> 
   );
 }
 

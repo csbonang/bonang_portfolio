@@ -3,6 +3,7 @@ import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import emailjs from 'emailjs-com';
 import Swal from 'sweetalert2';
 import '../styles/Contact.css';
+import '../styles/Contact.css';
 
 
 
@@ -72,7 +73,7 @@ const Contact = () => {
           placeholder='Message…'
           required
         />
-        <Button type='submit' color='green'>Submit</Button>
+        <Button type='submit' id='button'>Submit</Button>
       </Form>
     </div>
   );
