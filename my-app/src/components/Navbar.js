@@ -20,10 +20,10 @@ function Navbar() {
   return (
     <nav style={styles.navbarStyle} className="navbar">
       {/* <a href="/">Welcome</a> */}
-      <a href="/about">About</a>
-      <a href="/resume">Resume</a>
-      <a href="/portfolio">Portfolio</a>
-      <a href="/contactMe">Contact Me</a>
+      <a href="bonang_portfolio/about">About</a>
+      <a href="bonang_portfolio/resume">Resume</a>
+      <a href="bonang_portfolio/portfolio">Portfolio</a>
+      <a href="bonang_portfolio/contactMe">Contact Me</a>
     </nav>
   );
 }
