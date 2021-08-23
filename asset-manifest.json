@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/bonang_portfolio/static/css/main.e0ca857d.chunk.css",
-    "main.js": "/bonang_portfolio/static/js/main.e2c470dd.chunk.js",
-    "main.js.map": "/bonang_portfolio/static/js/main.e2c470dd.chunk.js.map",
-    "runtime-main.js": "/bonang_portfolio/static/js/runtime-main.90b43909.js",
-    "runtime-main.js.map": "/bonang_portfolio/static/js/runtime-main.90b43909.js.map",
+    "main.css": "/bonang_portfolio/static/css/main.96015f68.chunk.css",
+    "main.js": "/bonang_portfolio/static/js/main.9e3e6004.chunk.js",
+    "main.js.map": "/bonang_portfolio/static/js/main.9e3e6004.chunk.js.map",
+    "runtime-main.js": "/bonang_portfolio/static/js/runtime-main.616c0e2a.js",
+    "runtime-main.js.map": "/bonang_portfolio/static/js/runtime-main.616c0e2a.js.map",
     "static/css/2.d02ecd06.chunk.css": "/bonang_portfolio/static/css/2.d02ecd06.chunk.css",
-    "static/js/2.83e3bde5.chunk.js": "/bonang_portfolio/static/js/2.83e3bde5.chunk.js",
-    "static/js/2.83e3bde5.chunk.js.map": "/bonang_portfolio/static/js/2.83e3bde5.chunk.js.map",
-    "static/js/3.5b6943eb.chunk.js": "/bonang_portfolio/static/js/3.5b6943eb.chunk.js",
-    "static/js/3.5b6943eb.chunk.js.map": "/bonang_portfolio/static/js/3.5b6943eb.chunk.js.map",
+    "static/js/2.08ab1140.chunk.js": "/bonang_portfolio/static/js/2.08ab1140.chunk.js",
+    "static/js/2.08ab1140.chunk.js.map": "/bonang_portfolio/static/js/2.08ab1140.chunk.js.map",
+    "static/js/3.3c69a316.chunk.js": "/bonang_portfolio/static/js/3.3c69a316.chunk.js",
+    "static/js/3.3c69a316.chunk.js.map": "/bonang_portfolio/static/js/3.3c69a316.chunk.js.map",
     "index.html": "/bonang_portfolio/index.html",
     "static/css/2.d02ecd06.chunk.css.map": "/bonang_portfolio/static/css/2.d02ecd06.chunk.css.map",
-    "static/css/main.e0ca857d.chunk.css.map": "/bonang_portfolio/static/css/main.e0ca857d.chunk.css.map",
-    "static/js/2.83e3bde5.chunk.js.LICENSE.txt": "/bonang_portfolio/static/js/2.83e3bde5.chunk.js.LICENSE.txt",
+    "static/css/main.96015f68.chunk.css.map": "/bonang_portfolio/static/css/main.96015f68.chunk.css.map",
+    "static/js/2.08ab1140.chunk.js.LICENSE.txt": "/bonang_portfolio/static/js/2.08ab1140.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/bonang_portfolio/static/media/outline-icons.ddae9b1b.woff",
     "static/media/comics.e4b03d2c.jpg": "/bonang_portfolio/static/media/comics.e4b03d2c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.90b43909.js",
+    "static/js/runtime-main.616c0e2a.js",
     "static/css/2.d02ecd06.chunk.css",
-    "static/js/2.83e3bde5.chunk.js",
-    "static/css/main.e0ca857d.chunk.css",
-    "static/js/main.e2c470dd.chunk.js"
+    "static/js/2.08ab1140.chunk.js",
+    "static/css/main.96015f68.chunk.css",
+    "static/js/main.9e3e6004.chunk.js"
   ]
 }
