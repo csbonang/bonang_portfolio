@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bonang_portfolio/static/css/main.96015f68.chunk.css",
-    "main.js": "/bonang_portfolio/static/js/main.9e3e6004.chunk.js",
-    "main.js.map": "/bonang_portfolio/static/js/main.9e3e6004.chunk.js.map",
+    "main.css": "/bonang_portfolio/static/css/main.ed0154d6.chunk.css",
+    "main.js": "/bonang_portfolio/static/js/main.41ecff08.chunk.js",
+    "main.js.map": "/bonang_portfolio/static/js/main.41ecff08.chunk.js.map",
     "runtime-main.js": "/bonang_portfolio/static/js/runtime-main.616c0e2a.js",
     "runtime-main.js.map": "/bonang_portfolio/static/js/runtime-main.616c0e2a.js.map",
     "static/css/2.d02ecd06.chunk.css": "/bonang_portfolio/static/css/2.d02ecd06.chunk.css",
@@ -12,8 +12,10 @@
     "static/js/3.3c69a316.chunk.js.map": "/bonang_portfolio/static/js/3.3c69a316.chunk.js.map",
     "index.html": "/bonang_portfolio/index.html",
     "static/css/2.d02ecd06.chunk.css.map": "/bonang_portfolio/static/css/2.d02ecd06.chunk.css.map",
-    "static/css/main.96015f68.chunk.css.map": "/bonang_portfolio/static/css/main.96015f68.chunk.css.map",
+    "static/css/main.ed0154d6.chunk.css.map": "/bonang_portfolio/static/css/main.ed0154d6.chunk.css.map",
     "static/js/2.08ab1140.chunk.js.LICENSE.txt": "/bonang_portfolio/static/js/2.08ab1140.chunk.js.LICENSE.txt",
+    "static/media/PICTURE.6158a6f0.png": "/bonang_portfolio/static/media/PICTURE.6158a6f0.png",
+    "static/media/About.css": "/bonang_portfolio/static/media/background.c840e801.PNG",
     "static/media/semantic.min.css": "/bonang_portfolio/static/media/outline-icons.ddae9b1b.woff",
     "static/media/comics.e4b03d2c.jpg": "/bonang_portfolio/static/media/comics.e4b03d2c.jpg"
   },
@@ -21,7 +23,7 @@
     "static/js/runtime-main.616c0e2a.js",
     "static/css/2.d02ecd06.chunk.css",
     "static/js/2.08ab1140.chunk.js",
-    "static/css/main.96015f68.chunk.css",
-    "static/js/main.9e3e6004.chunk.js"
+    "static/css/main.ed0154d6.chunk.css",
+    "static/js/main.41ecff08.chunk.js"
   ]
 }
