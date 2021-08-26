@@ -18,7 +18,7 @@ function App() {
         <Route exact path="/resume" component={Resume} />
         <Route exact path="/portfolio" component={Project} />
         <Route exact path="/contactMe" component={Contact} />
-        <Route exact path="*" component={About} />
+        <Route exact path="/bonang_portfolio" component={About} />
       </Router>
       <Footer/>
     </div>
