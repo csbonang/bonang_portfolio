@@ -25,8 +25,8 @@ function Project() {
                 </Card.Body>
             </Card>
         );
-    };
-    return <div className="grid d-flex space-between m-2 p-2">
+    }; 
+    return <div className="grid d-flex space-between m-2 p-2 flex-wrap">
         {cardInfo.map(renderCard)}
     </div> 
     
