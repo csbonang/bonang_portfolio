@@ -22,7 +22,7 @@ function Navbar() {
       {/* <a href="/">Welcome</a> */}
       <a href="/about">About</a>
       <a href="/resume">Resume</a>
-      <a href="/portfolio">Portfolio</a>
+      <a href="/#/portfolio">Portfolio</a>
       <a href="/contactMe">Contact Me</a>
     </nav>
   );
