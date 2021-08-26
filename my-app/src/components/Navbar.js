@@ -1,5 +1,6 @@
 import React from 'react';
-import '../styles/Navbar.css';
+import '../styles/Navbar.css'; 
+import {Link} from"react-router-dom";
 
 // By importing the Navbar.css file, it is added to the DOM whenever this component loads
 
@@ -20,10 +21,10 @@ function Navbar() {
   return (
     <nav style={styles.navbarStyle} className="navbar">
       {/* <a href="/">Welcome</a> */}
-      <a href="/about">About</a>
-      <a href="/resume">Resume</a>
-      <a href="/#/portfolio">Portfolio</a>
-      <a href="/contactMe">Contact Me</a>
+      <Link to="/about">About</Link>
+      <Link to="/resume">Resume</Link>
+      <Link href="/portfolio">Portfolio</Link>
+      <Link to="/contactMe">Contact Me</Link>
     </nav>
   );
 }
