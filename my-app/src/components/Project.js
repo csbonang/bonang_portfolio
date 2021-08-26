@@ -8,10 +8,10 @@ import comics from '../images/comics.jpg';
 
 function Project() {
     const cardInfo = [
-        {image: {comics}, title: "Comics Assembled", text:"Comic's Assembled Info", repo:"https://github.com/ahuffma2/comics-assembled"},
+        {image: `${process.env.PUBLIC_URL}/comics.jpg`, title: "Comics Assembled", text:"Comic's Assembled Info", repo:"https://github.com/ahuffma2/comics-assembled"},
         {image: "https://i.pinimg.com/originals/03/ce/01/03ce015ea85dc84a17fb4c24a96cd87e.jpg", title: "Fit-Commit", text:"Info", repo:"https://github.com/mcall0147/fit-commit"},
-        {image: "images/workout.png", title: "Workout Tracker", text:"Info", repo:"https://github.com/csbonang/bonang_workoutTracker"},
-        {image: "image/code_quiz.PNG", title: "Code Quiz", text:"Info", repo:"https://github.com/csbonang/bonang_CodeQuiz"},
+        {image: `${process.env.PUBLIC_URL}/workout.png`, title: "Workout Tracker", text:"Info", repo:"https://github.com/csbonang/bonang_workoutTracker"},
+        {image: `${process.env.PUBLIC_URL}/code_quiz.PNG`, title: "Code Quiz", text:"Info", repo:"https://github.com/csbonang/bonang_CodeQuiz"},
     ]; 
 
     const renderCard = (card, index) => {
